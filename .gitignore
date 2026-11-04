@@ -1,0 +1,9 @@
+.env
+credentials.json
+token.json
+.venv/
+output/
+data/news/
+data/market.db
+__pycache__/
+

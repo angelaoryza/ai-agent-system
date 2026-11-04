@@ -1,0 +1,76 @@
+{
+  "symbol": "BMRI.JK",
+  "company_name": "PT Bank Mandiri (Persero) Tbk",
+  "overview": {
+    "listing_board": "Main",
+    "industry": "Banks",
+    "sub_industry": "Banks",
+    "sector": "Financials",
+    "sub_sector": "Banks",
+    "market_cap": 360359999984400,
+    "market_cap_rank": 4,
+    "address": "Menara Mandiri 1, Jl. Jend. Sudirman Kav. 54-55, Jakarta 12190",
+    "employee_num": 38751.0,
+    "employee_num_rank": 6,
+    "listing_date": "2003-07-14",
+    "website": "www.bankmandiri.co.id",
+    "phone": "5265045; 5265095 (Hunting)",
+    "email": "cma@bankmandiri.co.id",
+    "last_close_price": 3900,
+    "latest_close_date": "2026-10-23",
+    "daily_close_change": 0.012987012987013,
+    "all_time_price": {
+      "ytd_low": {
+        "2026-10-19": 3200
+      },
+      "52_w_low": {
+        "2026-10-19": 3200
+      },
+      "90_d_low": {
+        "2026-10-19": 3200
+      },
+      "ytd_high": {
+        "2026-02-24": 5375
+      },
+      "52_w_high": {
+        "2026-02-24": 5375
+      },
+      "90_d_high": {
+        "2026-09-04": 4480
+      },
+      "all_time_low": {
+        "2003-08-06": 172
+      },
+      "all_time_high": {
+        "2024-09-19": 7550
+      }
+    },
+    "esg_score": 9.47,
+    "tags": [
+      "52-w-low",
+      "90-d-low",
+      "dividend-yield-ttm-above-5-percent",
+      "esg-under-25",
+      "invested-by-danantara",
+      "top-20-institution-selling",
+      "top-30-yoy-earning-growth",
+      "top-90d-transaction-value",
+      "ytd-low"
+    ],
+    "indices": [
+      "IDXHIDIV20",
+      "SMINFRA18",
+      "LQ45",
+      "KOMPAS100",
+      "IDXQ30",
+      "IDXESGL",
+      "IDX30",
+      "ECONOMIC30",
+      "IDXG30",
+      "FTSE",
+      "SRIKEHATI",
+      "IDXBUMN20"
+    ],
+    "affiliates": null
+  }
+}

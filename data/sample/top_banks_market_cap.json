@@ -1,0 +1,94 @@
+{
+  "results": [
+    {
+      "symbol": "BBCA.JK",
+      "company_name": "PT Bank Central Asia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "market_cap": 613262554987500
+      }
+    },
+    {
+      "symbol": "BBRI.JK",
+      "company_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "market_cap": 436626327718170
+      }
+    },
+    {
+      "symbol": "BMRI.JK",
+      "company_name": "PT Bank Mandiri (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "market_cap": 360359999984400
+      }
+    },
+    {
+      "symbol": "BBNI.JK",
+      "company_name": "PT Bank Negara Indonesia (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "market_cap": 126281242068120
+      }
+    },
+    {
+      "symbol": "BNLI.JK",
+      "company_name": "Bank Permata Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "market_cap": 61788716720625
+      }
+    },
+    {
+      "symbol": "BDMN.JK",
+      "company_name": "PT Bank Danamon Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "market_cap": 48620982138525
+      }
+    },
+    {
+      "symbol": "BRIS.JK",
+      "company_name": "PT Bank Syariah Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "market_cap": 46581235191780
+      }
+    },
+    {
+      "symbol": "MEGA.JK",
+      "company_name": "Bank Mega Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "market_cap": 44634294263040
+      }
+    },
+    {
+      "symbol": "BNGA.JK",
+      "company_name": "PT Bank CIMB Niaga Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "market_cap": 41069793243600
+      }
+    },
+    {
+      "symbol": "BSWD.JK",
+      "company_name": "Bank of India Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "market_cap": 29489723779275
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 48,
+    "showing": 10,
+    "limit": 10,
+    "offset": 0,
+    "has_next": true,
+    "has_previous": false,
+    "next_offset": 10,
+    "previous_offset": null
+  }
+}

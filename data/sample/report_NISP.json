@@ -1,0 +1,61 @@
+{
+  "symbol": "NISP.JK",
+  "company_name": "PT Bank OCBC NISP Tbk",
+  "overview": {
+    "listing_board": "Main",
+    "industry": "Banks",
+    "sub_industry": "Banks",
+    "sector": "Financials",
+    "sub_sector": "Banks",
+    "market_cap": 26918194597920,
+    "market_cap_rank": 72,
+    "address": "OCBC Tower Jl. Prof. Dr. Satrio Kav. 25 Jakarta Selatan 12940",
+    "employee_num": 6263.0,
+    "employee_num_rank": 101,
+    "listing_date": "1994-10-20",
+    "website": "www.ocbc.id",
+    "phone": "(021) 25533888",
+    "email": "corporate.secretariat@ocbc.id",
+    "last_close_price": 1185,
+    "latest_close_date": "2026-10-23",
+    "daily_close_change": 0.00423728813559322,
+    "all_time_price": {
+      "ytd_low": {
+        "2026-10-19": 1045
+      },
+      "52_w_low": {
+        "2026-10-19": 1045
+      },
+      "90_d_low": {
+        "2026-10-19": 1045
+      },
+      "ytd_high": {
+        "2026-02-09": 1590
+      },
+      "52_w_high": {
+        "2026-02-09": 1590
+      },
+      "90_d_high": {
+        "2026-07-31": 1310
+      },
+      "all_time_low": {
+        "2003-04-03": 80
+      },
+      "all_time_high": {
+        "2026-02-09": 1590
+      }
+    },
+    "esg_score": 27.89,
+    "tags": [
+      "52-w-low",
+      "90-d-low",
+      "public-float-under-25",
+      "single-entity-holding-70",
+      "ytd-low"
+    ],
+    "indices": [
+      "IDXVESTA28"
+    ],
+    "affiliates": null
+  }
+}

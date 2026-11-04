@@ -1,0 +1,154 @@
+{
+  "top_gainers": {
+    "1d": [
+      {
+        "name": "PT Bank Danamon Indonesia Tbk",
+        "symbol": "BDMN.JK",
+        "price_change": 0.046875,
+        "last_close_price": 5025,
+        "latest_close_date": "2026-10-23"
+      },
+      {
+        "name": "PT Allo Bank Indonesia Tbk",
+        "symbol": "BBHI.JK",
+        "price_change": 0.0344827586206897,
+        "last_close_price": 600,
+        "latest_close_date": "2026-10-23"
+      },
+      {
+        "name": "PT Super Bank Indonesia Tbk",
+        "symbol": "SUPA.JK",
+        "price_change": 0.0344827586206897,
+        "last_close_price": 360,
+        "latest_close_date": "2026-10-23"
+      },
+      {
+        "name": "PT Bank BTPN Syariah Tbk.",
+        "symbol": "BTPS.JK",
+        "price_change": 0.0309278350515464,
+        "last_close_price": 1000,
+        "latest_close_date": "2026-10-23"
+      },
+      {
+        "name": "PT Bank KB Indonesia Tbk",
+        "symbol": "BBKP.JK",
+        "price_change": 0.027027027027027,
+        "last_close_price": 38,
+        "latest_close_date": "2026-10-23"
+      }
+    ],
+    "7d": [
+      {
+        "name": "Bank of India Indonesia Tbk",
+        "symbol": "BSWD.JK",
+        "price_change": 0.435555555555556,
+        "last_close_price": 8075,
+        "latest_close_date": "2026-10-23"
+      },
+      {
+        "name": "PT Bank Negara Indonesia (Persero) Tbk",
+        "symbol": "BBNI.JK",
+        "price_change": 0.151515151515152,
+        "last_close_price": 3420,
+        "latest_close_date": "2026-10-23"
+      },
+      {
+        "name": "PT Bank Mandiri (Persero) Tbk",
+        "symbol": "BMRI.JK",
+        "price_change": 0.150442477876106,
+        "last_close_price": 3900,
+        "latest_close_date": "2026-10-23"
+      },
+      {
+        "name": "PT Bank Danamon Indonesia Tbk",
+        "symbol": "BDMN.JK",
+        "price_change": 0.136877828054299,
+        "last_close_price": 5025,
+        "latest_close_date": "2026-10-23"
+      },
+      {
+        "name": "PT Bank BTPN Syariah Tbk.",
+        "symbol": "BTPS.JK",
+        "price_change": 0.136363636363636,
+        "last_close_price": 1000,
+        "latest_close_date": "2026-10-23"
+      }
+    ]
+  },
+  "top_losers": {
+    "1d": [
+      {
+        "name": "PT Bank Mestika Dharma Tbk.",
+        "symbol": "BBMD.JK",
+        "price_change": -0.0341463414634146,
+        "last_close_price": 1980,
+        "latest_close_date": "2026-10-23"
+      },
+      {
+        "name": "PT Bank Central Asia Tbk.",
+        "symbol": "BBCA.JK",
+        "price_change": -0.0289855072463768,
+        "last_close_price": 5025,
+        "latest_close_date": "2026-10-23"
+      },
+      {
+        "name": "PT Bank Tabungan Negara (Persero) Tbk",
+        "symbol": "BBTN.JK",
+        "price_change": -0.0256410256410256,
+        "last_close_price": 950,
+        "latest_close_date": "2026-10-23"
+      },
+      {
+        "name": "PT Krom Bank Indonesia Tbk",
+        "symbol": "BBSI.JK",
+        "price_change": -0.0224089635854342,
+        "last_close_price": 3490,
+        "latest_close_date": "2026-10-23"
+      },
+      {
+        "name": "Bank Mega Tbk",
+        "symbol": "MEGA.JK",
+        "price_change": -0.0103092783505155,
+        "last_close_price": 1920,
+        "latest_close_date": "2026-10-23"
+      }
+    ],
+    "7d": [
+      {
+        "name": "PT Super Bank Indonesia Tbk",
+        "symbol": "SUPA.JK",
+        "price_change": -0.1,
+        "last_close_price": 360,
+        "latest_close_date": "2026-10-23"
+      },
+      {
+        "name": "PT Bank Syariah Indonesia Tbk",
+        "symbol": "BRIS.JK",
+        "price_change": -0.0684931506849315,
+        "last_close_price": 1020,
+        "latest_close_date": "2026-10-23"
+      },
+      {
+        "name": "PT Allo Bank Indonesia Tbk",
+        "symbol": "BBHI.JK",
+        "price_change": -0.04,
+        "last_close_price": 600,
+        "latest_close_date": "2026-10-23"
+      },
+      {
+        "name": "PT Bank Central Asia Tbk.",
+        "symbol": "BBCA.JK",
+        "price_change": -0.0289855072463768,
+        "last_close_price": 5025,
+        "latest_close_date": "2026-10-23"
+      },
+      {
+        "name": "PT Bank SMBC Indonesia Tbk",
+        "symbol": "BTPN.JK",
+        "price_change": -0.00416666666666667,
+        "last_close_price": 2390,
+        "latest_close_date": "2026-10-23"
+      }
+    ]
+  }
+}
