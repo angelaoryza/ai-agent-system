@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "ASII.JK",
+    "date": "2026-10-19",
+    "close": 4130,
+    "open": 3990,
+    "high": 4190,
+    "low": 3920,
+    "volume": 101072800,
+    "market_cap": 167197074468200
+  },
+  {
+    "symbol": "ASII.JK",
+    "date": "2026-10-20",
+    "close": 4500,
+    "open": 4350,
+    "high": 4510,
+    "low": 4200,
+    "volume": 102000900,
+    "market_cap": 182175989130000
+  },
+  {
+    "symbol": "ASII.JK",
+    "date": "2026-10-21",
+    "close": 4560,
+    "open": 4420,
+    "high": 4560,
+    "low": 4400,
+    "volume": 83364200,
+    "market_cap": 184605002318400
+  },
+  {
+    "symbol": "ASII.JK",
+    "date": "2026-10-22",
+    "close": 4450,
+    "open": 4490,
+    "high": 4570,
+    "low": 4430,
+    "volume": 105787900,
+    "market_cap": 180151811473000
+  },
+  {
+    "symbol": "ASII.JK",
+    "date": "2026-10-23",
+    "close": 4550,
+    "open": 4450,
+    "high": 4600,
+    "low": 4450,
+    "volume": 56498300,
+    "market_cap": 184200166787000
+  },
+  {
+    "symbol": "ASII.JK",
+    "date": "2026-10-26",
+    "close": 4560,
+    "open": 4540,
+    "high": 4580,
+    "low": 4490,
+    "volume": 35419700,
+    "market_cap": 184605002318400
+  },
+  {
+    "symbol": "ASII.JK",
+    "date": "2026-10-27",
+    "close": 4630,
+    "open": 4640,
+    "high": 4750,
+    "low": 4580,
+    "volume": 67374100,
+    "market_cap": 187438851038200
+  },
+  {
+    "symbol": "ASII.JK",
+    "date": "2026-10-28",
+    "close": 5000,
+    "open": 4610,
+    "high": 5000,
+    "low": 4530,
+    "volume": 83377300,
+    "market_cap": 202417765700000
+  },
+  {
+    "symbol": "ASII.JK",
+    "date": "2026-10-29",
+    "close": 4690,
+    "open": 4940,
+    "high": 4940,
+    "low": 4690,
+    "volume": 82082700,
+    "market_cap": 189867864226600
+  },
+  {
+    "symbol": "ASII.JK",
+    "date": "2026-10-30",
+    "close": 4800,
+    "open": 4720,
+    "high": 4850,
+    "low": 4710,
+    "volume": 51365300,
+    "market_cap": 194321055072000
+  }
+]

@@ -1,0 +1,8 @@
+.env
+credentials.json
+token.json
+.venv/
+output/
+data/news/
+__pycache__/
+
